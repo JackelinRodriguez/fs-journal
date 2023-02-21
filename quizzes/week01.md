@@ -3,13 +3,13 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-
+The command `cd` is used to change the directory in the terminal.
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
 <!-- enter you answer in the space below -->
 ```
-
+The command `mkdir` is used to make a new folder in the terminal.
 ```
 
 **3.** What is the `\<html>\</html>` tag in a document?
@@ -27,7 +27,7 @@
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+The term `CSS` stands for Cascading Style Sheets.
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -44,19 +44,19 @@
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+The property I would change in order to make the font bold is i would add a tag of <b>.
 ```
 
 **8.** In what tag does the majority of your code belong?
 <!-- enter you answer in the space below -->
 ```
-
+The majority of code should be located in the body.
 ```
 
 **9.** What three tags can be used to make lists (not list items)?
 <!-- enter you answer in the space below -->
 ```
-
+Three tags that can be used to make lists are the <ol> (ordered list), <ul> (unordered list), and .
 ```
 
 **10.** Define the display `:flex property:`
